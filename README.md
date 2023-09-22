@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/K-ost/qr-code-component)
-- Live Site URL: [Add live site URL here](http://kost84.tech-test.net.in/wrk/qr)
+- Solution URL: [https://github.com/K-ost/qr-code-component](https://github.com/K-ost/qr-code-component)
+- Live Site URL: [http://kost84.tech-test.net.in/wrk/qr](http://kost84.tech-test.net.in/wrk/qr)
 
 ## My process
 
@@ -40,5 +40,5 @@ React.JS, Next.JS, Redux toolkit, Styled Components, Rest API.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/K-ost/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/K-ost)
+- Website - [https://github.com/K-ost/](https://github.com/K-ost/)
+- Frontend Mentor - [@K-ost](https://www.frontendmentor.io/profile/K-ost)
